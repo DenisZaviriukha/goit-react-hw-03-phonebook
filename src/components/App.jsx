@@ -37,7 +37,6 @@ export class App extends Component {
     }
   }
 
-  
 // --------2 hw
 
   deleteNumber = (deleteElId) => {
